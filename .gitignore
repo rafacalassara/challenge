@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.environments
+pyproject.toml
+uv.lock
+.python-version
+
+# Environment variables
+.env
+
+# Vector database
+data/
+
+# Test 
+.pytest_cache
+
+# IDE
+.vscode
